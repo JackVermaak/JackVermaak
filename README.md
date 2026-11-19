@@ -1,6 +1,6 @@
 # Hi, I'm Jack
 
-I study Infotronic Systems Engineering at Hochschule Rhein-Waal in Germany. I build small embedded devices and the software that goes with them, mostly on the Raspberry Pi Pico 2.
+I study Engineering in Germany. I build small embedded devices and the software that goes with them, mostly on the Raspberry Pi Pico 2.
 
 **Projects**
 
@@ -13,4 +13,4 @@ I study Infotronic Systems Engineering at Hochschule Rhein-Waal in Germany. I bu
 
 **Find me**
 
-[jackvermaak.com](https://jackvermaak.com) · [LinkedIn](https://www.linkedin.com/in/jack-vermaak/)
+[jackvermaak.com](https://www.jackvermaak.com) · [LinkedIn](https://www.linkedin.com/in/jack-vermaak/)
